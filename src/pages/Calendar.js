@@ -1,6 +1,6 @@
 import React from 'react'
 
-const ThemeSetting = () => {
+const Calendar = () => {
     return (
         <div>
 
@@ -8,4 +8,4 @@ const ThemeSetting = () => {
     )
 }
 
-export default ThemeSetting
+export default Calendar
